@@ -1,0 +1,19 @@
+Jun 10 10:21:33 server sshd[1234]: Failed password for root from 49.36.81.12 port 22 ssh2
+Jun 10 10:21:35 server sshd[1234]: Failed password for root from 49.36.81.12 port 22 ssh2
+Jun 10 10:21:36 server sshd[1234]: Failed password for root from 49.36.81.12 port 22 ssh2
+Jun 10 10:21:37 server sshd[1234]: Failed password for root from 49.36.81.12 port 22 ssh2
+Jun 10 10:21:38 server sshd[1234]: Failed password for root from 49.36.81.12 port 22 ssh2
+
+Jun 10 10:25:10 server sshd[1234]: Failed password for admin from 8.8.8.8 port 22 ssh2
+Jun 10 10:25:12 server sshd[1234]: Failed password for admin from 8.8.8.8 port 22 ssh2
+Jun 10 10:25:14 server sshd[1234]: Failed password for admin from 8.8.8.8 port 22 ssh2
+
+Jun 10 10:30:21 server sshd[1234]: Failed password for root from 1.1.1.1 port 22 ssh2
+Jun 10 10:30:23 server sshd[1234]: Failed password for root from 1.1.1.1 port 22 ssh2
+Jun 10 10:30:25 server sshd[1234]: Failed password for root from 1.1.1.1 port 22 ssh2
+
+Jun 10 10:35:44 server sshd[1234]: Failed password for user from 185.199.108.153 port 22 ssh2
+Jun 10 10:35:46 server sshd[1234]: Failed password for user from 185.199.108.153 port 22 ssh2
+
+Jun 10 10:40:10 server sshd[1234]: Failed password for guest from 52.95.110.1 port 22 ssh2
+Jun 10 10:40:12 server sshd[1234]: Failed password for guest from 52.95.110.1 port 22 ssh2
